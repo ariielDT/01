@@ -37,7 +37,7 @@ http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w6740141987777.m3u8
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w6740141987777
  
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvarapuan.png" group-title="CANAL ABERTO",RedeTV! - TV Arapuan (PB)
 https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
