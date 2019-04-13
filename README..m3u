@@ -32,8 +32,8 @@ http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
  
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png"  group-title="ANGOLA",RecordTV - TV Miramar - Angola
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO",Band - RBA TV (PA)
+ 2
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANALBERTO",Band - RBA TV (PA)
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
